@@ -8,10 +8,6 @@ Goal: Using the Ames, Iowa Housing Kaggle data set, Census Demographic Data for 
 
 Problem: As the Black or African American populations rise in a census tract area, how does the sale price of houses in Ames, Iowa change? 
 
-__Null Hypothesis:__  There is a negative association between a high percent of Black population and the sale price (as the Black population rises, sale price goes down).
-
-__Alternative Hypothesis:__ There is not a negative association between high percent of population and the sale price.
-
 ## Background
 
 The Ames population was estimated at 58,965 during the 2010 Census. This includes student enrollment at ISU. Iowa State University of Science and Technology (ISU) serves over 36,000 students from all over the world and is located in the heart of Ames, Iowa. 
